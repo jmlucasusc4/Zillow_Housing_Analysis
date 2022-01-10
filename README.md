@@ -1,9 +1,6 @@
 # Zillow_Housing_Analysis
 
 
-# Data Cleaning 
-
-
 # Exploratory Data Analysis
 
 This dataset contains a pleathora of infomation not relevant to the exploratory data analysis. It is better to concenrate on the data that gives more insight. Examining the Sales price distribution affords the oppotunity to see the outliers within the data and how the sales are skewed. Seperating the Salesprice will yeild a normal distribution for machine learning. 
